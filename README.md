@@ -6,7 +6,7 @@ I am Muhammad Zul Fadhli bin Mohd Fauzi. I am currently working as a Digital Geo
 
 - ⛽ I’m a Digital Geoscientist and currently working on for AI/ML application in Oil and Gas
 - 🌱 I’m currently learning more about Data Science, Artificial Intelligence, Machine Learning, Deep Learning (Computer Vision And NLP)
-- 💬 Ask me about Deep Learning and Machine Learning (Computer Vision)
+- 💬 Ask me about Deep Learning and Machine Learning (Computer Vision) in Oil and Gas Industry
 - 📫 How to reach me: [LinkedIn - Muhammad Zul Fadhli Mohd Fauzi](https://www.linkedin.com/in/zulfadhlifauzi/) and you may me at [Email](zfadhli98@gmail.com)
 
 
